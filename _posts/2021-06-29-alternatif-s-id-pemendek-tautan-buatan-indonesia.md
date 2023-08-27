@@ -40,7 +40,7 @@ Tapi sebagai alternatif dari hal yang mainstream, rasanya masih cukup untuk digu
 
 Berikut contoh tautan yang saya buat: [https://intip.in/ksana](https://intip.in/ksana)
 
-## [Ksana.in](https://ksana.in)
+## [Hame Short](https://ksana.in)
 
 Ini adalah layanan teranyar yang dibuat tahun 2021, jadi pastinya masih diurus dengan baik.
 Dibuat dengan tampilan yang kekinian, agar mudah digunakan dan dipahami sama para generasi milenial.

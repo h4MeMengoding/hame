@@ -28,7 +28,7 @@ export function Counter({ count = 0 }) {
         ))}
       </Stack>
       <Text textAlign="center" color={textColor}>
-        Pengguna yang telah menikmati layanan ksana.in
+        Pengguna yang telah menikmati layanan hame short
       </Text>
     </Stack>
   )

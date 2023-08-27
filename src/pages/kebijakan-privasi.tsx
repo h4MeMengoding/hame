@@ -12,8 +12,8 @@ function Privacy() {
   return (
     <Layout>
       <MetaHead
-        title="Kebijakan Keamanan Privasi | Ksana.in"
-        description="Kebijakan keamanan privasi mengenai informasi pribadi Anda yang disimpan dan dibagikan di Ksana.in"
+        title="Kebijakan Keamanan Privasi | Hame Short"
+        description="Kebijakan keamanan privasi mengenai informasi pribadi Anda yang disimpan dan dibagikan di Hame Short"
       />
       <VStack spacing={4} textAlign="center" as="section" mt="32">
         <VStack spacing={4} textAlign="center">
@@ -26,7 +26,7 @@ function Privacy() {
           >
             Kebijakan Privasi
           </Heading>
-          <Image width={200} height={122} src={'/images/orange/ksana.svg'} alt="Ksana.in" />
+          <Image width={200} height={122} src={'/images/orange/ksana.svg'} alt="Hame Short" />
         </VStack>
 
         <Container maxW={'4xl'} mx="auto" as="section">

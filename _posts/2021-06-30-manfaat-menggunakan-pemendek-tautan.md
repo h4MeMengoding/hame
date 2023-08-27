@@ -56,7 +56,7 @@ Dengan tautan apa adanya, kita mungkin kesusahan bahkan hampir tidak mengetahui 
 Namun dengan layanan pemendek tautan, hampir semua penyedia layanan yang tersedia saat ini sudah mendukung fitur analitik sederhana untuk mengetahui jumlah kunjungan pada suatu tautan.
 Artinya, kita bisa mengetahui dengan lebih mudah, berapa jumlah orang yang datang dengan tautan yang kita buat sebelumnya.
 
-Ksana.in, meskipun tidak komplit-komplit amat, paling tidak sudah menyediakan data sederhana untuk kalian bisa tau seberapa banyak tautan yang kalian buat telah diakses oleh pengguna. Kalian bisa tau sepopuler apa kalian 😂
+Hame Short, meskipun tidak komplit-komplit amat, paling tidak sudah menyediakan data sederhana untuk kalian bisa tau seberapa banyak tautan yang kalian buat telah diakses oleh pengguna. Kalian bisa tau sepopuler apa kalian 😂
 
 Jangan-jangan tautan yang telah dibuat dan dibagikan, ternyata tidak ada yang akses.
 

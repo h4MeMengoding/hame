@@ -61,8 +61,8 @@ function About() {
   return (
     <Layout>
       <MetaHead
-        title="Tentang Kami | Ksana.in"
-        description="Ksana.in adalah layanan pemendek tautan / URL yang gratis dan mudah untuk digunakan, buatan asli anak Indonesia"
+        title="Tentang Kami | Hame Short"
+        description="Hame Short adalah layanan pemendek tautan / URL yang gratis dan mudah untuk digunakan, buatan asli anak Indonesia"
       />
       <VStack spacing={2} textAlign="center" as="section" mt="32">
         <Heading
@@ -74,7 +74,7 @@ function About() {
         >
           Tentang Kami
         </Heading>
-        <Image width={200} height={122} src={'/images/orange/ksana.svg'} alt="Ksana.in" />
+        <Image width={200} height={122} src={'/images/orange/ksana.svg'} alt="Hame Short" />
       </VStack>
       <Container maxW={'4xl'} mx="auto" as="section" mt="8">
         <VStack spacing={4}>

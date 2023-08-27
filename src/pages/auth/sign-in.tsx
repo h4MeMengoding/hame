@@ -10,8 +10,8 @@ function Login() {
   return (
     <LayoutAuth minH={'100vh'} bg={bgColor}>
       <MetaHead
-        title="Masuk/Login | Ksana.in"
-        description="Sudah punya Akun di Ksana.in? Yuk login dan gunakan layanan dari Ksana.in untuk membantu memepercantik tautan Anda sekarang juga."
+        title="Masuk/Login | Hame Short"
+        description="Sudah punya Akun di Hame Short? Yuk login dan gunakan layanan dari Hame Short untuk membantu memepercantik tautan Anda sekarang juga."
       />
       <AuthSignIn />
     </LayoutAuth>

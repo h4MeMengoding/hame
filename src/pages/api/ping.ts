@@ -49,7 +49,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   )
 
   res.json({
-    message: 'Hello from Ksana.in',
+    message: 'Hello from Hame Short',
     success: true,
     url: req.url || '',
     query: req.query || '',

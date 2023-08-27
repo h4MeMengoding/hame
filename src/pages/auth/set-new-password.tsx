@@ -9,7 +9,7 @@ function SetNewPasswordPage() {
 
   return (
     <LayoutAuth minH={'100vh'} bg={bgColor}>
-      <MetaHead robots={NO_INDEXED} title="Setel ulang password di Ksana.in" />
+      <MetaHead robots={NO_INDEXED} title="Setel ulang password di Hame Short" />
       <AuthSetNewPassword />
     </LayoutAuth>
   )

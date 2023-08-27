@@ -59,7 +59,7 @@ export function Footer({ withBacklink }: IFooterProps) {
                 <Text fontWeight="700" color="orange.400" fontSize={'lg'} mb={2}>
                   Lebih banyak
                 </Text>
-                <Link href={tentang}>Tentang Ksana.in</Link>
+                <Link href={tentang}>Tentang Hame Short</Link>
                 <Link href={blog}>Blog</Link>
                 <Link href={login}>Masuk</Link>
               </Stack>
@@ -84,15 +84,15 @@ export function Footer({ withBacklink }: IFooterProps) {
                   Laporkan Isu
                 </Link>
                 <Link href={splitbeeAnalytics} target="_blank" rel="noopener noreferrer">
-                  Statistik Ksana.in
+                  Statistik Hame Short
                 </Link>
                 <Link
                   href="https://trakteer.id/mazipan/tip?utm_source=ksana"
                   target="_blank"
-                  title="Dukung Ksana.in"
+                  title="Dukung Hame Short"
                   rel="noopener noreferrer"
                 >
-                  Dukung Ksana.in
+                  Dukung Hame Short
                 </Link>
               </Stack>
 
