@@ -54,7 +54,7 @@ export function Footer({ withBacklink }: IFooterProps) {
       {withBacklink ? (
         <Box width="100%">
           <Container maxW={'5xl'}>
-            <SimpleGrid columns={{ base: 1, md: 2 }} spacing={8} py={4}>
+            {/* <SimpleGrid columns={{ base: 1, md: 2 }} spacing={8} py={4}>
               <Stack align={'flex-start'}>
                 <Text fontWeight="700" color="orange.400" fontSize={'lg'} mb={2}>
                   Lebih banyak
@@ -118,7 +118,7 @@ export function Footer({ withBacklink }: IFooterProps) {
                   Pramuka.Online
                 </Link>
               </Stack>
-            </SimpleGrid>
+            </SimpleGrid> */}
           </Container>
         </Box>
       ) : null}
@@ -142,11 +142,11 @@ export function Footer({ withBacklink }: IFooterProps) {
               dibuat oleh{' '}
               <Link
                 textDecoration="underline"
-                href={'https://mazipan.space/'}
+                href={'https://google.com'}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Irfan Maulana
+                Ilham Shofa
               </Link>
             </Text>
           </Flex>
